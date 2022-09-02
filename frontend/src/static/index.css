@@ -1,0 +1,8 @@
+.card {
+    width: 16rem;
+}
+
+.card-img {
+    width: 30%;
+    object-fit: cover;
+}
